@@ -1,0 +1,1 @@
+404 not found!<?php /**PATH C:\wamp64\www\footman_1\resources\views/errors/404.blade.php ENDPATH**/ ?>
